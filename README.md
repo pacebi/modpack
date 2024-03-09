@@ -2,7 +2,7 @@
 Modpack for the Pacebi SMP.
 
 ## Requirements
-- Java 17
+- Java 8
 - Minecraft Forge 1.16.5
 - A reasonably ok computer
 
