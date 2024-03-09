@@ -7,7 +7,7 @@ Modpack for the Pacebi SMP.
 - A reasonably ok computer
 
 ## Installation
-Installation is simple. Simply download `mods.zip` and `dependencies.zip`, move it to your mods folder, and extract.
+Installation is simple. Simply download `mod1.zip` and `mod2.zip`, move it to your mods folder, and extract.
 
 Two zip archives have been used due to GitHub's limit of files being under 100 MB.
 
